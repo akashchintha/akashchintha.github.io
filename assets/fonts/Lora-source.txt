@@ -1,0 +1,3 @@
+Font: Lora
+Source: https://fonts.google.com/specimen/Lora
+License: SIL Open Font License 1.1
